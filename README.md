@@ -12,3 +12,4 @@ For the analysis of degenerated GUCG motifs, commands in 20240918_GUCG_degenerat
 To analyze the motif hits per gene basis, commands in CDSlen_scripts were executed.
 For motif distribution analysis, commands in motifDistribution_scripts were executed.
 For read length analysis, length_start_top50.pl, made by Yuanhui, was used.
+To analyze motif enrichment, scripts in motifHits were executed.
