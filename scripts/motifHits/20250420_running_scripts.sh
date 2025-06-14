@@ -1,0 +1,111 @@
+## original note: 	20250420_running_scripts.sh.txt
+			20250424_running_scripts.sh.txt
+			20250428_running_scripts.sh.txt
+
+HOMEDIR=
+cd $HOMEDIR
+
+Rscript 20250420_motifHits_given_motif_mismatch.R GYCG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GTCG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R CGAC 0
+
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYCGRCK 0
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYCGRCK 1
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYCGRCK 2
+
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYTGRCK 0
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYTGRCK 1
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYTGRCK 2
+
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYCGRTK 0
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYCGRTK 1
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYCGRTK 2
+
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYYGRTK 0
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYYGRTK 1
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYYGRTK 2
+
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYYGNNN 0
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYYGNNN 1
+Rscript 20250420_motifHits_given_motif_mismatch.R RRYYGNNN 2
+
+Rscript 20250420_motifHits_given_motif_mismatch.R NRYYGRNN 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NRYYGRNN 1
+Rscript 20250420_motifHits_given_motif_mismatch.R NRYYGRNN 2
+
+Rscript 20250420_motifHits_given_motif_mismatch.R NNYYGRCN 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NNYYGRCN 1
+Rscript 20250420_motifHits_given_motif_mismatch.R NNYYGRCN 2
+
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRN 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRA 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRC 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRT 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRY 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRS 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRW 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRK 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRM 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRB 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRH 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRD 0
+Rscript 20250420_motifHits_given_motif_mismatch.R YYRRV 0
+
+Rscript 20250420_motifHits_given_motif_mismatch.R RRCCG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R RRTTG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GACTR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GRTCG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GATYA 0
+Rscript 20250420_motifHits_given_motif_mismatch.R AATCA 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GGTCA 0
+Rscript 20250420_motifHits_given_motif_mismatch.R RRCCG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R RRTTG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GACTR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GRTCG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GATYA 0
+Rscript 20250420_motifHits_given_motif_mismatch.R AATCA 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GGTCA 0
+
+Rscript 20250420_motifHits_given_motif_mismatch.R GACTA 0
+
+Rscript 20250420_motifHits_given_motif_mismatch.R NRCCGR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NACTRR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NATYAG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NATCGA 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NATTGR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NGTCGR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NGTTRR 0
+
+Rscript 20250420_motifHits_given_motif_mismatch.R NACTAR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NATYAG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NGTTAR 0
+
+Rscript 20250420_motifHits_given_motif_mismatch.R NNYYGAR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NNCCGAK 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NNYTGRT 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NNTCGGT 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NNYYGGG 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NNYTGGA 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NNYTAAR 0
+
+Rscript 20250420_motifHits_given_motif_mismatch.R NNTTAGM 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NNTTAGN 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NNTTAGA 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NNTTAGC 0
+
+Rscript 20250420_motifHits_given_motif_mismatch.R NGTTAR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NGTTARN 0
+Rscript 20250420_motifHits_given_motif_mismatch.R NGTTARNN 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GTTAR 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GTTARN 0
+Rscript 20250420_motifHits_given_motif_mismatch.R GTTARNN 0
+
+
+
+
+
+
+
+
