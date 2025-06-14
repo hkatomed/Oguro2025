@@ -10,7 +10,9 @@ Note: REFINE was obtained from Riordan et al. NAR 39(4) 1501-1509, 2011 (PMID: 2
 
 In order to run REFINE and summarize data, commands in 20240918_scREFINE_1.sh and 20240918_scREFINE_2.R were executed.
 
-For the analysis of motifs, scripts in motifHits were executed.
+For analysis of motifs in SELEX sequences, scripts in SELEX were executed.
+
+For analysis of motifs in the transcripts, scripts in motifHits were executed.
 
 For motif analysis in sliding window, commands in data_plots were executed.
 
